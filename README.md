@@ -1,0 +1,2 @@
+# Puzzle
+Qt simple puzzle
